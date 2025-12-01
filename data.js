@@ -70,4 +70,6 @@ const portfolioData = {
         },
        
     ]
+    // في نهاية ملف data.js أضف هذا السطر:
+window.portfolioData = portfolioData;
 };
